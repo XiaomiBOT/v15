@@ -3,7 +3,7 @@
   "AutoRead": true,
   "AutoRecording": true,
   "AutoReply": true,
-  "NamaSession": "sessions",
+  "NamaSession": "sessions.js",
   "NamaOwner": "Ramdani Official",
   "NamaBot": "Ramdani Botz",
   "NomorOwner": "6289512545999",
